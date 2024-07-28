@@ -1,0 +1,27 @@
+Privacy Policy for Nothing Prime Music Bot
+
+1. Introduction
+Welcome to Nothing Prime Music Bot! We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy policy, or our practices with regards to your personal information, please contact us at [Your Contact Information].
+
+2. What Information We Collect
+We collect minimal user data for the operation of the Nothing Prime Music Bot, which is limited to Discord user IDs, server IDs, and any command usage data necessary for functionality. We do not store any personal user data outside of the Discord platform.
+
+3. How We Use Information
+The information we collect is used solely for providing and improving the music bot service. We do not sell, rent, or trade user information with third parties.
+
+4. Data Sharing and Disclosure
+We may disclose your information if we believe it is necessary to comply with applicable laws, legal processes, or government requests.
+
+5. Data Retention
+We retain your information for as long as necessary to provide you with our services. When we no longer need to retain your information, we will delete it from our servers.
+
+6. Security of Data
+We implement security measures to protect your data from unauthorized access, alteration, or destruction.
+
+7. Changes to This Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by updating the "Last updated" date at the top of this Privacy Policy.
+
+8. Contact Us
+If you have questions or comments about this policy, you may email us at [ankush26030@gmail.com].
+
+--
