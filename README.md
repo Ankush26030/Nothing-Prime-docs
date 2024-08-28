@@ -1,2 +1,2 @@
-# Nothing-Prime-Docs
+# Nothing-Prime
 # Developed By Ankush
