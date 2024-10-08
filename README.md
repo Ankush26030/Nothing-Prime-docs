@@ -1,2 +1,2 @@
-# Nothing-Prime-Privacy-Policy and Tos
+# Nothing-Prime-Privacy-Policy and Toc
 # Developed By Ankush
